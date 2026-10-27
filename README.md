@@ -1,1 +1,1 @@
-# 1_laba_kg
+# lab_kg
